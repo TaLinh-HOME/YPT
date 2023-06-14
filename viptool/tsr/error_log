@@ -1,0 +1,5 @@
+[05-Aug-2021 13:19:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/azmuasub/public_html/viptool/tsr/index.php:77
+Stack trace:
+#0 /home/azmuasub/public_html/viptool/tsr/index.php(151): TheSieuRe->_Check_GD()
+#1 {main}
+  thrown in /home/azmuasub/public_html/viptool/tsr/index.php on line 77
